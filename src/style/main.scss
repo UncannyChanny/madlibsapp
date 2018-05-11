@@ -2,3 +2,7 @@
 @import 'variable';
 @import 'components/madlib_form';
 @import 'header';
+
+body {
+    font-family: $font-primary;
+}
